@@ -1,3 +1,7 @@
+## 🖼️ Screenshots
+
+![Screens](DreamTravel.png)
+
 # 🗺️ Dream Travel Map App
 
 This is a beginner-level **Map app** developed using **SwiftUI** and **MapKit**, where you can view and interact with some of the gorgeous places around the world.  
@@ -19,6 +23,4 @@ It was created as a learning project to explore map integration, annotations, an
 - **MapKit**
 - **MVVM (Lightweight structure)**
 
-## 🖼️ Screenshots
 
-![Screens](DreamTravel.png)
